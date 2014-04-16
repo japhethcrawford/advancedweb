@@ -1,0 +1,15 @@
+name: mywebsite
+Description: My Jekyll Website
+
+author: 
+	name: Japheth Crawford	
+	email: japhethcrawford@gmail.com
+	github: japhethcrawford
+	twitter: @japhethcrawford
+	
+permalink: pretty
+
+future: true
+
+##(default) show_drafts: false 
+
