@@ -2,6 +2,7 @@
 # japhethcrawford.github.io/advancedweb
 # japhethcrawford.github.io
 baseurl: /advancedweb
+markdown: redcarpet
 
 name: mywebsite
 Description: My Jekyll Website
