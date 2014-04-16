@@ -1,7 +1,7 @@
 # This is for github project pages
 # japhethcrawford.github.io/advancedweb
 # japhethcrawford.github.io
-baseurl: /advancedweb/
+baseurl: /advancedweb
 
 name: mywebsite
 Description: My Jekyll Website
