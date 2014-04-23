@@ -1,5 +1,5 @@
 # This is for github project pages
 # japhethcrawford.github.io/advancedweb
 # japhethcrawford.github.io
-baseurl: japhethcrawford.github.io/advancedweb
+baseurl: /advancedweb
 markdown: kramdown
