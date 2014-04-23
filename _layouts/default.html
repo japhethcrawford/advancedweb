@@ -2,12 +2,18 @@
 <html>
 	<head>
 		<title>{{ page.title }}</title>
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/foundation/css/normalize.css">
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/foundation/css/foundation.css">
 		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 		<script type="text/javascript" src="//use.typekit.net/aqu6ite.js"></script>
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	</head>
 	
 	<body>
-		{{ content }}
+	<div class="row">
+		<div class="large-12 columns">
+			{{ content }}
+		</div>
+	</div>
 	</body>
 </html>
