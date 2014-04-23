@@ -1,5 +1,5 @@
 ---
-title: "Starting Project 1"
+title: "Project One Research"
 date: 2014-04-23
 categories:
 - projects
