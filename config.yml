@@ -2,4 +2,4 @@
 # japhethcrawford.github.io/advancedweb
 # japhethcrawford.github.io
 baseurl: /advancedweb
-
+markdown: kramdown
