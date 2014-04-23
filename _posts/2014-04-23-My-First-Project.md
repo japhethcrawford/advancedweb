@@ -2,8 +2,9 @@
 title: "Starting Project 1"
 date: 2014-04-23
 categories:
-- project-1
-- web-design
+- projects
+- enoch-pratt
+
 tags:
 - mobile
 - development
